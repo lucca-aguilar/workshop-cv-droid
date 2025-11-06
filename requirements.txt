@@ -1,0 +1,5 @@
+# Biblioteca principal para Visão Computacional 
+opencv-python
+
+# Biblioteca fundamental para manipular arrays numéricos 
+numpy
