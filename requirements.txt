@@ -3,3 +3,6 @@ opencv-python
 
 # Biblioteca fundamental para manipular arrays numéricos 
 numpy
+
+# Biblioteca YOLOv8 para detecção de objetos
+ultralytics
